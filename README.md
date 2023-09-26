@@ -3,10 +3,10 @@
 <ul>
 <li>https://gymnasium.farama.org/environments/box2d/car_racing/   </li>
 <h3>Useful Youtube Links--> </h3>
-1. https://www.youtube.com/watch?v=Ev0wpVB7OEs
-2. [https://www.youtube.com/watch?v=eQtx2ZZtuTw](https://www.youtube.com/watch?v=C9CZpbuOz04)
-3. Super Mario Bros-->https://www.youtube.com/watch?v=2eeYqJ0uBKE
-4. https://www.youtube.com/watch?v=jbdjhoDT41M
+1. https://www.youtube.com/watch?v=Ev0wpVB7OEs <br/>
+2. [https://www.youtube.com/watch?v=eQtx2ZZtuTw](https://www.youtube.com/watch?v=C9CZpbuOz04) <br/>
+3. Super Mario Bros-->https://www.youtube.com/watch?v=2eeYqJ0uBKE <br/>
+4. https://www.youtube.com/watch?v=jbdjhoDT41M <br/>
 </ul>
 <h3> Reference Repos and Website Links--> </h3>
 1. https://github.com/aws-deepracer <br/>
